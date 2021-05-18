@@ -1,5 +1,6 @@
 import React from 'react';
-import { Usuarios } from './Components/Usuarios';
+import { Formularios } from './Components/Formularios';
+// import { Usuarios } from './Components/Usuarios';
 //import { Login } from './Components/Login';
 //import { ContadorConHook } from './Components/ContadorConHook';
 //import { Contador } from './Components/Contador';
@@ -17,7 +18,8 @@ const App = () => {
       {/* <Contador/> */}
       {/* <ContadorConHook/> */}
       {/* <Login/> */}
-      <Usuarios/>
+      {/* <Usuarios/> */}
+      <Formularios/>
       
 
 
